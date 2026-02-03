@@ -157,6 +157,15 @@ p {
 
 /* MEDIA QUERIES START HERE */
  /* TABLET MEDIA QUERY */
+@media (max-width: 768px) {
+  .feature-col {
+    padding: 1.5rem;
+  }
+  .description {
+    padding: 1.5rem;
+  }
+}
 
- 
+/* CELL PHONE MEDIA QUERY */
+
 
